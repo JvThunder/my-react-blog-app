@@ -1,0 +1,36 @@
+.header {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Option 1: Deep Navy */
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: #14468c;
+}
+
+.header-content img {
+    height: 70px;
+    /* or any small size you prefer */
+    width: auto;
+    vertical-align: middle;
+}
+
+.search-form {
+    display: flex;
+    gap: 0.5rem;
+}

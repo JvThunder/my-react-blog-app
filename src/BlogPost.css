@@ -1,0 +1,145 @@
+.blog-container {
+    display: flex;
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    gap: 2rem;
+}
+
+.toc {
+    flex: 0 0 250px;
+    position: sticky;
+    top: 2rem;
+    height: fit-content;
+    padding-right: 1rem;
+    border-right: 1px solid #ddd;
+}
+
+.toc h2 {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+.toc ul {
+    list-style: none;
+    padding: 0;
+}
+
+.toc li {
+    margin-bottom: 0.5rem;
+}
+
+.toc a {
+    color: #0066cc;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: color 0.2s;
+}
+
+.toc a:hover {
+    color: #004499;
+    text-decoration: underline;
+}
+
+.blog-post {
+    flex: 1;
+    max-width: 800px;
+}
+
+.blog-header {
+    margin-bottom: 2rem;
+}
+
+.blog-header h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 0.5rem;
+}
+
+.blog-date {
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.blog-post h1,
+.blog-post h2,
+.blog-post h3,
+.blog-post h4,
+.blog-post h5,
+.blog-post h6 {
+    color: #333;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    scroll-margin-top: 2rem;
+}
+
+.blog-post p {
+    color: #444;
+    line-height: 1.7;
+    margin-bottom: 1.5rem;
+}
+
+.blog-post a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.blog-post a:hover {
+    text-decoration: underline;
+}
+
+.blog-post code {
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    font-size: 0.9em;
+}
+
+.blog-post pre {
+    padding: 1rem;
+    border-radius: 5px;
+    overflow-x: auto;
+    margin: 1.5rem 0;
+}
+
+@media (max-width: 768px) {
+    .blog-container {
+        flex-direction: column;
+    }
+
+    .toc {
+        position: static;
+        border-right: none;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 1rem;
+        margin-bottom: 2rem;
+    }
+}
+
+.blog-meta {
+    display: flex;
+    gap: 1rem;
+    /* Adds space between the spans */
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.blog-author {
+    position: relative;
+    padding-right: 1rem;
+}
+
+.blog-author::after {
+    content: "|";
+    position: absolute;
+    right: 0;
+    color: #999;
+}
+
+/* Just the Recently Added section heading */
+.recent-posts h2 {
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+    color: #333;
+}

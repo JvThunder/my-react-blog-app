@@ -1,0 +1,28 @@
+{
+    "posts": [
+        {
+            "title": "The Long Journey of Technological Evolution and Human Endeavor",
+            "date": "2025-02-25",
+            "author": "Jane Doe",
+            "slug": "post_example"
+        },
+        {
+            "title": "Test",
+            "date": "2025-02-24",
+            "author": "Jane Doe",
+            "slug": "test"
+        },
+        {
+            "title": "Test 2",
+            "date": "2025-02-23",
+            "author": "Jane Doe",
+            "slug": "test2"
+        },
+        {
+            "title": "Long Post",
+            "date": "2025-02-22",
+            "author": "Jane Doe",
+            "slug": "long_post"
+        }
+    ]
+}
