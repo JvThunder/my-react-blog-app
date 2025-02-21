@@ -143,3 +143,15 @@
     margin-bottom: 1rem;
     color: #333;
 }
+
+@media (max-width: 768px) {
+    .header {
+        padding: 1rem 1.5rem;
+        /* increased side padding for phones */
+    }
+
+    .logo {
+        margin: 1rem 0;
+        /* add some vertical spacing */
+    }
+}
