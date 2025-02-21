@@ -22,6 +22,7 @@
     font-weight: bold;
     text-decoration: none;
     color: #14468c;
+    margin: 0;
 }
 
 .header-content img {
@@ -29,6 +30,7 @@
     /* or any small size you prefer */
     width: auto;
     vertical-align: middle;
+    display: inline-block;
 }
 
 .search-form {
