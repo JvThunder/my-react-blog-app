@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
+import rehypeRaw from 'rehype-raw';
 import { useParams } from 'react-router-dom';
 import './BlogPost.css';
 
@@ -104,6 +105,7 @@ const BlogPost = () => {
                         h5: createHeadingRenderer(5),
                         h6: createHeadingRenderer(6),
                     }}
+                    rehypePlugins={[rehypeRaw]}
                 >
                     {post.content}
                 </ReactMarkdown>
