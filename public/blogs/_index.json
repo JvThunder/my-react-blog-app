@@ -1,16 +1,10 @@
 {
     "posts": [
         {
-            "title": "Test Blog",
-            "date": "2025-02-22",
+            "title": "My First Post: The Beginning of My AI Blog Post",
+            "date": "2025-04-03",
             "author": "Joshua AC",
             "slug": "first-post"
         },
-        {
-            "title": "Example Blog",
-            "date": "2025-02-01",
-            "author": "Definitely not me",
-            "slug": "example-post"
-        }
     ]
 }
