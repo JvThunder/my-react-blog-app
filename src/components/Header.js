@@ -7,7 +7,7 @@ function Header() {
         <header className="header">
             <div className="header-content">
                 <Link to="/" className="logo">
-                    <img src="/icon.png" alt="JvThunder" className="logo" />
+                    <img src="/images/icon.png" alt="JvThunder" className="logo" />
                     JvBlogs
                 </Link>
             </div>
