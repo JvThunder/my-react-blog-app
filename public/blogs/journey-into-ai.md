@@ -12,7 +12,7 @@ Do note at that time, there was no ChatGPT yet. However, I was first fascinated 
 ## The Start of My AI Journey
 This was the reason I decided to go apply to Data Science and AI at NTU. At that time, I cannot wait to start learning even before entering university. This was when I first started learning from the [Deep Learning Course](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) offered by DeepLearning.ai. (and I still highly recommend it for beginners in Deep Learning!) As someone into math, I was very excited to learn about the math behind neural networks, and how they are trained using gradient descent. It feels amazing to see the math I love transformed into real life applications. The capstone project in the course was also a great experience as I got to apply the knowledge and implement a simple neural network from scratch.
 
-<figure>
+<figure style="text-align: center;">
   <img src="../images/cat-vs-dog.jpg" alt="First Capstone Project: Cat vs Dog">
   <figcaption>Figure 1: My first neural network for cat vs dog classification</figcaption>
 </figure>
