@@ -22,7 +22,8 @@ From there I started to learn more about AI and the subfields of AI, such as Com
 
 ## Research Experiences
 
-### 1. MLDA (Machine Learning Data Analytics) Research Group (Year 1) - [Visual Retrieval](https://github.com/JvThunder/BLIP)
+### 1. MLDA (Machine Learning Data Analytics) Research Group (Year 1) - Visual Retrieval
+[Github](https://github.com/JvThunder/BLIP)
 
 I started my AI research journey in Year 1 as part of MLDA at NTU, a group focused on applying machine learning to real-world problems. Fresh out of my courses and still exploring my interests, I joined the research team and was assigned to a collaborative project with Huawei on optimizing models for **Visual Retrieval from image and modification prompt**, mentored by Huawei researchers.
 
