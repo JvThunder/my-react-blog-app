@@ -96,13 +96,11 @@
     margin-bottom: 1rem;
 }
 
-
-
-
 .blog-post p {
     color: #444;
     line-height: 1.7;
     margin-bottom: 1.5rem;
+    font-size: 1.05rem;
 }
 
 .blog-post a {
@@ -139,6 +137,16 @@
         padding-bottom: 1rem;
         margin-bottom: 2rem;
     }
+
+    .header {
+        padding: 1rem 1.5rem;
+        /* increased side padding for phones */
+    }
+
+    .logo {
+        margin: 1rem 0;
+        /* add some vertical spacing */
+    }
 }
 
 .blog-meta {
@@ -168,14 +176,21 @@
     color: #333;
 }
 
-@media (max-width: 768px) {
-    .header {
-        padding: 1rem 1.5rem;
-        /* increased side padding for phones */
-    }
+/* List styling to ensure consistency with other content */
+.blog-post ul,
+.blog-post ol {
+    font-family: inherit;
+    color: #444;
+    line-height: 1.7;
+    margin: 0 0 1.5rem 0;
+    padding-left: 2em;
+    font-size: 1.05rem;
+}
 
-    .logo {
-        margin: 1rem 0;
-        /* add some vertical spacing */
-    }
+.blog-post li {
+    margin-bottom: 0.5rem;
+}
+
+.blog-post li p {
+    margin: 0 0 0.5rem 0;
 }
