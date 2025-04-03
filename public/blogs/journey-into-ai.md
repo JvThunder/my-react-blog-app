@@ -106,29 +106,28 @@ After you have a good foundation in the fundamental courses, you can and should 
 
 ## Is ML Research for Me?
 If you are often unsure abut pursuing ML, don't worry, you are not alone. I was also unsure about it when I first started. However, I think the best way to find out is to just try it. I can't give a hard yes or no, I think it depends on you and your personal fit.
-Personally, as a student trying to pursue ML research in NTU, there are good things I am fortunate enough to experience but also many challenges along the way.
+Personally, as a student trying to pursue ML research in NTU, there are good things I am fortunate enough to experience but also many challenges along the way. There are several things that I can share about my experience.
 
-There are several things that I can share about my experience.
-**Some of the pros for me are:**  
-- There are dedicated programs for doing research like URECA. Though, you might need to research on the good professors to join; I heard many bad experiences from my friends, but some turns out to be a good starting point. Once you find a good fit, it is a great opportunity.
-- NTU offers quite a few research opportunities, and one of its biggest strengths is the strong collaboration between professors and industry. This opens up a lot of great chances to work in research labs that bridge academia and real-world applications. I myself have been able to work in a research lab like Continental and Temasek Lab.
-- Honestly, AI/ML courses in NTU are quite slow-paced compared to the rapid progress of the field. But that’s actually a good thing. No university course will ever keep up with state-of-the-art advancements, so the best approach is to self-learn and explore on your own. Once you do that, you’ll find the lessons much easier and can focus more on research rather than just coursework. Comparatively, compared to NUS, there are much more free time and you need to think less about competition, to explore and do your own research.
-
-More general pros about doing ML research:
+**General pros about doing ML research:**
 - It is an exciting field to do research! If you love math and coding, you will have a lot of time doing both!
 - You will be able to solve difficult real-world problems with intelligence. This was unprecedented in history, and it is an amazing feeling to be part of it.
 - You will be able to make a big impact. AI is the single most transformative technology of our era, so you have the potential to make a big impact.
 - More and more companies and startups are investing in AI, so there will be more opportunities to work in the industry.
 
+**Some of the pros of doing ML research in NTU:**  
+- There are dedicated programs for doing research like URECA. Though, you might need to research on the good professors to join; I heard many bad experiences from my friends, but some turns out to be a good starting point. Once you find a good fit, it is a great opportunity.
+- NTU offers quite a few research opportunities, and one of its biggest strengths is the strong collaboration between professors and industry. This opens up a lot of great chances to work in research labs that bridge academia and real-world applications. I myself have been able to work in a research lab like Continental and Temasek Lab.
+- Honestly, AI/ML courses in NTU are quite slow-paced compared to the rapid progress of the field. But that’s actually a good thing. No university course will ever keep up with state-of-the-art advancements, so the best approach is to self-learn and explore on your own. Once you do that, you’ll find the lessons much easier and can focus more on research rather than just coursework. Comparatively, compared to NUS, there are much more free time and you need to think less about competition, to explore and do your own research.
+
+**More general cons about doing ML research:**
+- It is a very competitive field and there are tons of people doing it already. Makes sense since it is a very lucrative field, but if your goal is academia, it might be difficult to stand out. If possible find a niche that is more neglected and focus on it.
+- It is a very fast paced field, so you need to be prepared to learn and adapt quickly. If your research is too slow, you might not be able to keep up with the latest research.
+- It can be very discouraging at times, especially if you are not getting good results.
+
 **I’ll be transparent — there are definitely some cons to doing ML research as an undergrad in NTU:**
 - Probably there are not many people interested in ML research as an undergraduate in NTU, so it is quite lonely at times. I'm personally only aware of a handful of students (<10) who are interested in ML research in NTU.
 - Sometimes the research culture in NTU might be rough too. Sure there are many professors with a lot of citations, but often times, mentorship is not well done. This is understandable considering professors are busy with their own research and PhD students but it can be very discouraging at times. Mine is so so and at least I get to keep in touch with the PhDs, but I know some of my friends who are worst off. Also language barrier is a thing. Not discriminating anyone, but fact of the matter is 90% of the researchers here are Chinese-speaking (In fact I was the only non-Chinese speaker in my team during URECA), so it will >be difficult if you are not comfortable with Chinese.
 - Not much encouragement and short term incentive in general. Especially if you are going the academia route, the pay would probably not be great at all, and you might have a hard time standing out. (And most of the work you will do will be unpaid, and sometimes not even a good result will come out of the research)
-
-More general cons about doing ML research:
-- It is a very competitive field and there are tons of people doing it already. Makes sense since it is a very lucrative field, but if your goal is academia, it might be difficult to stand out. If possible find a niche that is more neglected and focus on it.
-- It is a very fast paced field, so you need to be prepared to learn and adapt quickly. If your research is too slow, you might not be able to keep up with the latest research.
-- It can be very discouraging at times, especially if you are not getting good results.
 
 So, is ML research for you? I think it depends on you and your personal fit. If you are not sure, just try it! You will learn a lot more about yourself that way.
 
