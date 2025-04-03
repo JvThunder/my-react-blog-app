@@ -1,17 +1,17 @@
 .blog-container {
     display: flex;
     max-width: 1200px;
-    margin: 2rem auto;
-    padding: 0 1rem;
-    gap: 2rem;
+    margin: 1.5rem auto;
+    padding: 0 0.75rem;
+    gap: 1.5rem;
 }
 
 .toc {
     flex: 0 0 250px;
     position: sticky;
-    top: 2rem;
+    top: 1.5rem;
     height: fit-content;
-    padding-right: 1rem;
+    padding-right: 0.75rem;
     border-right: 1px solid #ddd;
 }
 
@@ -48,11 +48,11 @@
 }
 
 .blog-header {
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
 }
 
 .blog-header h1 {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     font-weight: bold;
     color: #333;
     margin-bottom: 0.5rem;
@@ -70,27 +70,27 @@
 .blog-post h5,
 .blog-post h6 {
     color: #333;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    scroll-margin-top: 2rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+    scroll-margin-top: 1.5rem;
 }
 
 .blog-post h1 {
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-weight: bold;
     color: #333;
     margin-bottom: 1rem;
 }
 
 .blog-post h2 {
-    font-size: 1.5rem;
+    font-size: 1.35rem;
     font-weight: bold;
     color: #333;
     margin-bottom: 1rem;
 }
 
 .blog-post h3 {
-    font-size: 1.25rem;
+    font-size: 1.15rem;
     font-weight: bold;
     color: #333;
     margin-bottom: 1rem;
@@ -98,8 +98,8 @@
 
 .blog-post p {
     color: #444;
-    line-height: 1.7;
-    margin-bottom: 1.5rem;
+    line-height: 1.6;
+    margin-bottom: 1.2rem;
     font-size: 1.05rem;
 }
 
@@ -181,14 +181,14 @@
 .blog-post ol {
     font-family: inherit;
     color: #444;
-    line-height: 1.7;
-    margin: 0 0 1.5rem 0;
-    padding-left: 2em;
+    line-height: 1.6;
+    margin: 0 0 1.2rem 0;
+    padding-left: 1.5em;
     font-size: 1.05rem;
 }
 
 .blog-post li {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.4rem;
 }
 
 .blog-post li p {
