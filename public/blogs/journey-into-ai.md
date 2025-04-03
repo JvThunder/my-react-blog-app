@@ -85,6 +85,7 @@ These courses are highly recommended for beginners in AI, as they provide a soli
 - [RL Specialization](https://www.coursera.org/specializations/reinforcement-learning) is an amazing course for beginners in Reinforcement Learning.
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) is a good course if you are not comfortable with the math or want to refresh your knowledge. Calculus, Linear Algebra, and Probability are used all the time in AI research. 
 - All the other courses offered by [DeepLearning.ai](https://www.deeplearning.ai/courses/) are also great, and I highly recommend them!
+- [LLM Agents](https://llmagents-learning.org/sp25) quite a recent one touching on agentic AI systems. In general, it is useful to learn latest trends in AI.
 
 
 ## Practical Courses (Good for Applying AI to Real-World Problems)
@@ -103,8 +104,33 @@ After you have a good foundation in the fundamental courses, you can and should 
 
 # Tips
 
-## Is ML Research for me?
-TODO
+## Is ML Research for Me?
+If you are often unsure abut pursuing ML, don't worry, you are not alone. I was also unsure about it when I first started. However, I think the best way to find out is to just try it. I can't give a hard yes or no, I think it depends on you and your personal fit.
+Personally, as a student trying to pursue ML research in NTU, there are good things I am fortunate enough to experience but also many challenges along the way.
+
+There are several things that I can share about my experience.
+**Some of the pros for me are:**  
+- There are dedicated programs for doing research like URECA. Though, you might need to research on the good professors to join; I heard many bad experiences from my friends, but some turns out to be a good starting point. Once you find a good fit, it is a great opportunity.
+- NTU offers quite a few research opportunities, and one of its biggest strengths is the strong collaboration between professors and industry. This opens up a lot of great chances to work in research labs that bridge academia and real-world applications. I myself have been able to work in a research lab like Continental and Temasek Lab.
+- Honestly, AI/ML courses in NTU are quite slow-paced compared to the rapid progress of the field. But that’s actually a good thing. No university course will ever keep up with state-of-the-art advancements, so the best approach is to self-learn and explore on your own. Once you do that, you’ll find the lessons much easier and can focus more on research rather than just coursework. Comparatively, compared to NUS, there are much more free time and you need to think less about competition, to explore and do your own research.
+
+More general pros about doing ML research:
+- It is an exciting field to do research! If you love math and coding, you will have a lot of time doing both!
+- You will be able to solve difficult real-world problems with intelligence. This was unprecedented in history, and it is an amazing feeling to be part of it.
+- You will be able to make a big impact. AI is the single most transformative technology of our era, so you have the potential to make a big impact.
+- More and more companies and startups are investing in AI, so there will be more opportunities to work in the industry.
+
+**I’ll be transparent — there are definitely some cons to doing ML research as an undergrad in NTU:**
+- Probably there are not many people interested in ML research as an undergraduate in NTU, so it is quite lonely at times. I'm personally only aware of a handful of students (<10) who are interested in ML research in NTU.
+- Sometimes the research culture in NTU might be rough too. Sure there are many professors with a lot of citations, but often times, mentorship is not well done. This is understandable considering professors are busy with their own research and PhD students but it can be very discouraging at times. Mine is so so and at least I get to keep in touch with the PhDs, but I know some of my friends who are worst off. Also language barrier is a thing. Not discriminating anyone, but fact of the matter is 90% of the researchers here are Chinese-speaking (In fact I was the only non-Chinese speaker in my team during URECA), so it will >be difficult if you are not comfortable with Chinese.
+- Not much encouragement and short term incentive in general. Especially if you are going the academia route, the pay would probably not be great at all, and you might have a hard time standing out. (And most of the work you will do will be unpaid, and sometimes not even a good result will come out of the research)
+
+More general cons about doing ML research:
+- It is a very competitive field and there are tons of people doing it already. Makes sense since it is a very lucrative field, but if your goal is academia, it might be difficult to stand out. If possible find a niche that is more neglected and focus on it.
+- It is a very fast paced field, so you need to be prepared to learn and adapt quickly. If your research is too slow, you might not be able to keep up with the latest research.
+- It can be very discouraging at times, especially if you are not getting good results.
+
+So, is ML research for you? I think it depends on you and your personal fit. If you are not sure, just try it! You will learn a lot more about yourself that way.
 
 ## For Technical Interview
 
@@ -114,7 +140,21 @@ I have been through technical interviews, and I have some tips that I think are 
 - Review Statistics and Probability - One time I fumbled an interview just because I forgot some statistical concepts. It is important to be comfortable with this.
 
 ## Other General Tips
-- Try implementing the famous papers: Sometimes you might read and assume you understand the paper, but when you try to implement it, you will realize you have a lot of things to learn. This is a great way to understand the paper better and apply your knowledge to real-world problems. This is also a good way to prepare for your own research.
+
+Some general tips that I think are useful:
 - Try to join a research group or lab: This is a great way to learn and get exposure to the latest research in AI. This is also a place to see whether you would enjoy the research and the work culture.
+- Try implementing the famous (highly cited) papers: Sometimes you might read and assume you understand the paper, but when you try to implement it, you will realize you have a lot of things to learn. This is a great way to understand the paper better and apply your knowledge to real-world problems. This is also a good way to prepare for your own research.
 - Join a hackathon: This is a great way to apply your knowledge to real-world problems and get exposure to the latest research in AI. However, I personally do not recommend joining too much of these, especially since most hackathons are half-baked ideas and implementations and not aligned with research where you need to spend time on the research.
 - Just start: Whatever you want to try, just try it. I personally believe that the best way to learn is to just do it. You will learn a lot by just doing it. Don't be intimidated by the math or the complexity of the problem. If you wait to exhaustively learn all the prerequisites of current AI research, you will never start.
+- Learn to not get intimidated by the math: I know it is scary, but it is not as scary as you think. Learning to understand the intuition behind it and why it is used.
+- Be a Jack of All Trades, Master of One: This might be more of a personal opinion and might be controversial depending on the person. However, I think it is important to be able to understand the big picture of the field and Computer Science in general. A lot of skills and concepts are also quite transferable and even most breakthroughs in AI are built upon random borrowed ideas from other fields. In general, it is also good to have skills in software engineering (web dev / mobile dev, etc.), SQL and databases, and more. Soft skills like collaboration, communication, writing, and presentation, team management are also important, so do not neglect them! This is also good for career pivots when you decide research is not for you.
+
+There are also some personal don'ts for ML research:
+- Do not do technical ML research if you are struggling with either math or coding. You need to at least be above average in both to be able to do well in ML research. This might sound discouraging, but I think it is important to be honest with yourself and not to waste your time. Truth is there will be so many other people who are good at both, and are also willing to work hard. It is going to be very difficult to catch up to that. I am sure there will be many other ways you can do to make big impact, with a better fit for your skills and interestss.
+- Don't be afraid to try an idea and failing. This is a common thing in research. You will fail a lot, and that is okay. It is part of the process.
+- Don't be afraid to ask for help or advice. This will bring you a long way. If possible connect with more experienced people in the field and listen to their advice. Sometimes these connections will also bring you opportunities in the future!
+- Don't be too hasty to try to do too many researches/activities at once. This is coming from personal experience. I think if I were to repeat, I would try to be more focused and do fewer things at once, with more time and such better output quality.
+- Don't hold back on not starting just because that you feel you can will do it later. I think if I were to repeat, I would try to be more proactive and not wait for the "right time" to start.
+- Don't burn out and spend all your time stuck on a problem. Find time to rest and refresh your mind. It is usually difficult to continue to be productive if you are too tired.
+
+I think that's all I can share for now. I will update this blog as I learn more and gain more experiences. Thank you for reading!
