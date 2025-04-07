@@ -2,6 +2,8 @@ Hello fellow readers, I am Joshua Adrian Cahyono, a Year 3 student at NTU studyi
 
 I want to share my journey into AI and how I got started with AI, as well as a bit of my personal tips on how to navigate through AI research as a student. Though I may not be as good or experienced as industry experts and researchers in AI, neither am I the best student researcher in NTU, I do hope I bring light some insights to the table especially for NTU students in starting their AI journey.
 
+Feel free to skip to [Careers](#careers) to get tips on starting your AI journey!
+
 # My Personal Journey into AI
 
 ## Where it all began...
@@ -28,7 +30,7 @@ I started my AI research journey in Year 1 as part of MLDA at NTU, a group focus
 
 As a team of five with little research experience, the project was daunting. Our collaboration with Huawei researchers was challenging, as their availability was limited, and we were still grasping the fundamentals of research. Despite this, it was an invaluable experience. It was my first time working in a research team, and I learned a lot.
 
-We began with a literature review on Visual Retrieval, taking turns presenting papers and brainstorming improvements. I loved the process of discussing new ideas and experimenting with solutions. However, implementing our approach was tough, especially since I was new to PyTorch and had to learn it on the go. In the end, we managed to implement it yet unable to improve the performance significantly. Although we didn’t complete the project, I have no regrets. It deepened my passion for research and even helped me land my first research internship. [Github](https://github.com/JvThunder/BLIP)
+We began with a literature review on Visual Retrieval, taking turns presenting papers and brainstorming improvements. I loved the process of discussing new ideas and experimenting with solutions. However, implementing our approach was tough, especially since I was new to PyTorch and had to learn it on the go. In the end, we managed to implement it yet unable to improve the performance significantly. Although we didn't complete the project, I have no regrets. It deepened my passion for research and even helped me land my first research internship. [Github](https://github.com/JvThunder/BLIP)
 
 <figure style="text-align: center;">
   <img src="../images/va-architecture.png" style="width: 50%;" alt="Visual Retrieval Architecture">
@@ -55,25 +57,189 @@ Admittedly, I was not given the flexibility or the autonomy to conduct my own re
 
 Going to the next summer, I was again excited to look for an internship. Just to be sure, I tried looking early. At this time, I remembered [Terence](https://scholar.google.com/citations?user=kwjzdvUAAAAJ&hl=en), a graduate with extensive experience in the AI industry who had also been one of my tutors in a previous course. Recalling our conversations, I reached out to ask if Continental was hiring. To my surprise, he invited me for an interview.
 
-During the interview, I shared my experiences in MLDA, since I had yet to complete my A*STAR and URECA research at the time. Shortly after, I was offered an internship to work on Autonomous Mobile Robot Navigation under Terence’s supervision, which I eagerly accepted. I had been fascinated by robotics since childhood, inspired by countless sci-fi movies, so this opportunity felt like a perfect fit.
+During the interview, I shared my experiences in MLDA, since I had yet to complete my A*STAR and URECA research at the time. Shortly after, I was offered an internship to work on Autonomous Mobile Robot Navigation under Terence's supervision, which I eagerly accepted. I had been fascinated by robotics since childhood, inspired by countless sci-fi movies, so this opportunity felt like a perfect fit.
 
 Not long after, I met Huy, the Head of the Robotics branch in MLDA. I explained my interest and experience in AI in general. In the end, I joined him to join the [ICRA BARN challenge](https://cs.gmu.edu/~xiao/Research/BARN_Challenge/BARN_Challenge25.html). In this competition, we developed an MPC mode-switching algorithm, which led us to win second place! It was a great experience and it was also my first time ever going to an academic conference, which took place in Japan (a country I absolutely love!). [Github](https://github.com/MLDA-NTU/mlda-barn-2024)
+
+<figure style="text-align: center;">
+  <img src="../images/icra-barn.jpg" style="width: 50%;" alt="ICRA BARN Challenge">
+  <figcaption>Figure 3: Winning second place in ICRA BARN Challenge</figcaption>
+</figure>
 
 Surprisingly, the competition aligned closely with my internship project, as both involved using the **Jackal** robot. However, my internship challenge was to develop and adapt **Diffusion Planners** for the robot to navigate in dynamic environments. This was an entirely new area for me, requiring me to read multiple papers, adapt research ideas, and engineer solutions to test on the robot. The experience was a perfect balance of research (50%) and engineering (50%), and I thoroughly enjoyed the process of bringing theoretical concepts to real-world applications.
 
 ### 5. Temasek Lab Internship (Present) - Interpretability of ViT models
 
-This brings us to my current internship at Temasek Lab, where I am working on the interpretability of ViT models. From this internship, I have learned a lot about the latest research in ViT models and the importance of interpretability in the field. I have not completed this yet, so I will update this section when I have more to share.
-
-### Future Plans (Year 4)
-
-Recently I've been interested in the problem of AI Safety, including AI Alignment, AI Control and AI Policies. I hope I can explore this area more and contribute to this field with my own research.
+This brings us to my current internship at Temasek Lab, where I am working on the interpretability of ViT models. From this internship, I have learned a lot about the latest research in ViT models and the importance of interpretability in the field.
 
 ### Conclusion 
 
 What a journey all this has been! As I am writing this, I realized that I have been through quite a lot in the past 3 years, and I can feel the growth in my skills and knowledge. I also realized that there are many "luck" involved in my journey, where a lot things seem to fall into place. To me, I am sure this is all part of God's plan for me, and I am grateful for the opportunities and experiences I have been given.
 
 Still, this is just the beginning and I have a long way to go. I will continue to share my journey and learnings in this blog, and I hope you will find it useful!
+
+# Careers
+AI research is no longer confined to academia, opportunities now span across universities, big tech labs, and startups. Each path comes with its own trade-offs, depending on your goals, whether it's pushing theory, scaling innovation, or shipping impactful systems fast.
+
+## Academia
+AI researchers in academia typically focus on foundational research and advancing the theoretical and mathematical understanding of machine learning, neural networks, and related domains. They often work at universities or research institutes, publishing papers, mentoring students, and teaching courses. However, these days, academia can feel similar to industry, where the work is often empirical, less-theoretical and applied. Usually this track is for people aiming to be professors in universities.
+
+## Big Tech Industry
+Recently, research in AI is at a unique spot, where the demand for AI researchers in the tech industry is also high, due to the rapid advancements in the field and massive investments in AI. However, the work is often geared towards applied research and development, fine tuning models towards specialized use cases and making sure the models are performant, aligned and optimized for deploying in production.
+
+## Deep Tech Startups
+The rise of LLMs and multimodal models has opened the door for a new wave of AI-native startups, building everything from intelligent human assistants to autonomous agents. This space moves fast and demands versatility: as a researcher, you're not just designing models, you're helping ship them. Some researchers also venture into building their own startups, which is a great way to apply their research to real-world problems and make a big impact.
+
+# Subfields of AI
+
+## Foundations
+These are the the foundations of AI, all of which are the most important topics to learn for beginners in AI. An AI researcher should be comfortable with these topics before diving into research on more specialized and recent fields.
+
+### Traditional ML
+Machine learning models that use statistical methods to learn patterns from data. Even though the field is now dominated by deep learning models, traditional ML is still a good starting point for beginners in AI, and is still used in many real-world applications.
+List of topics to start learning:
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Random Forest
+- Gradient Boosting
+- Support Vector Machines
+
+### Neural Networks
+Neural networks are a type of machine learning model that use artificial neural networks to learn patterns from data. This is the crux of all the recent breakthroughs in the field, and you must master this before diving into the next deep learning topic.
+- Classification
+- Regression
+- Perceptron
+- Multi-Layer Perceptron (MLP)
+- Backpropagation
+- Activation Functions
+- Loss Functions
+- Regularization
+
+<figure style="text-align: center;">
+  <img src="../images/neural_net.png" style="width: 50%;" alt="Neural Network">
+  <figcaption>Figure 4: A simple neural network</figcaption>
+</figure>
+
+### Time Series
+Analysis and prediction of sequential data points indexed by time. Powers forecasting, anomaly detection, and pattern recognition in financial markets, weather, and IoT systems.
+List of topics to start learning:
+- Autoregressive Integrated Moving Average (ARIMA)
+- Recurrent Neural Networks (RNNs)
+- Long Short-Term Memory (LSTMs)
+- Gated Recurrent Units (GRUs)
+
+### Computer Vision
+Systems that interpret and understand visual information from images or videos. Powers facial recognition, object detection, and image segmentation.
+List of topics to start learning:
+- Image Classification
+- Object Detection
+- Semantic Segmentation
+- Convolutional Neural Networks (CNNs)
+- Residual Networks (ResNet)
+- You Only Look Once (YOLO)
+- Unet
+- Visual Transformers (ViTs)
+
+### Natural Language Processing
+Enables machines to understand, interpret, and generate human language. Drives chatbots, translation services, and sentiment analysis.
+List of topics to start learning:
+- Text Classification
+- Question Answering
+- Language Translation
+- LSTM for Language Modeling
+- Transformers
+- Bidirectional Encoder Representations from Transformers (BERT)
+- Generative Pre-trained Transformer (GPT)
+
+### Reinforcement Learning
+Training agents to make decisions by rewarding desired behaviors. Used in robotics, game AI, and autonomous systems.
+List of models to start learning:
+- Markov Decision Processes (MDPs)
+- Agent-Environment Interaction
+- Q-learning
+- Deep Q Network (DQN)
+- Actor-Critic (A2C, A3C)
+- Proximal Policy Optimization (PPO)
+- Monte Carlo Tree Search (MCTS)
+
+### Unsupervised and Self-Supervised Learning
+Self-supervised learning is a type of unsupervised learning where the model learns to predict some aspect of the input data.
+List of topics to start learning:
+- Clustering and Dimensionality Reduction
+- Contrastive Learning
+- Autoencoders
+- Generative Adversarial Networks (GANs)
+- Variational Autoencoders (VAEs)
+
+## Generative AI
+These are the most recent fields in AI, all of which were from the 2017 onwards. It is mainly driven by the development of [Transformer models](https://arxiv.org/abs/1706.03762) and [Diffusion models](https://arxiv.org/abs/2006.11239).
+
+### Large Language Models
+Neural networks trained on vast text datasets to understand and generate human-like text. Examples include GPT-4, Claude, and Llama.
+
+### Diffusion Models
+Generate high-quality images by gradually transforming noise into coherent content. Power popular image generators like DALL-E and Stable Diffusion.
+
+### Multimodal Models
+AI systems that process and combine multiple types of data (text, images, audio). Can generate and understand across different modalities.
+
+### Agentic AI and Systems
+AI systems that act autonomously to achieve goals, combining reasoning, planning, and execution capabilities.
+
+## More Niche Fields in AI
+These are the fields that are more niche and less mainstream, but are still important and interesting. Obviously I can't cover all of them, but I hope this gives you a good starting point and a sense of the diversity of AI. In my opinion, these are the fields that new researchers are more likely to be able to contribute significantly to.
+
+### AI Safety and Alignment
+Research ensuring AI systems remain beneficial, controllable, and aligned with human values and intentions.
+
+### 3D modelling
+AI techniques for helping with 3D modelling. Examples include papers on 3D reconstruction, 3D generation, and 3D understanding.
+
+### Computer Graphics
+AI techniques for enhancing and automating computer graphics workflows. Combines traditional rendering with neural approaches to create, manipulate, and optimize visual content for games, VFX, and interactive media.
+
+### Graph Based AI and Knowledge Graphs
+Representing and reasoning with complex relationships between entities to enhance understanding and inference.
+
+### Embodied AI
+Systems that interact with the physical world through sensors and actuators, combining perception with physical action.
+
+### Multi-Agent Systems
+Study of multiple AI agents interacting, competing, or cooperating to solve complex problems collectively.
+
+### Audio and Speech
+Processing and understanding audio signals, including speech recognition, speech synthesis, and audio generation.
+
+### Human-AI Interaction
+Developing systems that can understand and interact with humans in a natural and intuitive way.
+
+### Distributed AI and Federated Learning
+Training large models across multiple devices or data centers, ensuring privacy and scalability.
+
+### Representation Learning
+Learning useful and efficient representations of data, including text, images, and audio.
+
+### Neuroscience and Brain-Inspired AI
+Using brain and neuroscience research to understand and improve current AI systems.
+
+### Edge and Efficient AI
+AI systems that need to be using less memory and computation power to enable them to run on edge devices, such as smartphones, tablets, and embedded systems.
+
+### Symbolic Reasoning AI
+Combining traditional rule-based approaches with modern neural methods to enable explicit reasoning and explainability.
+
+### Thereotical AI / Math of Deep Learning
+Understanding the mathematical foundations of deep learning. Usually proving theorems and guarantees of the optimization problems in deep learning.
+
+### AI for Science
+Using AI to accelerate scientific discovery in fields like drug design, materials science, and fundamental physics.
+
+### AI for Security
+Using AI to detect and prevent security threats, including malware detection, intrusion detection, and anomaly detection.
+
+### AI for Healthcare
+Using AI to improve healthcare, including disease diagnosis, drug discovery, and personalized medicine.
 
 # Learning Resources
 
@@ -102,7 +268,18 @@ After you have a good foundation in the fundamental courses, you can and should 
 - [Huggingface Daily Papers](https://huggingface.co/papers) is a great resource to find the latest research in NLP and Computer Vision.
 - [NeurIPS](https://neurips.cc/virtual/2024/events/workshop) go to NeurIPS or any of top AI conferences and watch their presentation. They provide the slides and videos of the presentations online for free after the conference!
 
-# Tips
+## Websites on AI Challenges and Competitions
+A good way to practice your skills and apply your knowledge to real-world problems is to participate in AI challenges and competitions. Here are some of the ones I recommend to start with:
+- [Kaggle Competitions](https://www.kaggle.com/competitions): A website that lists out many AI challenges and competitions. I would recommend starting with the Kaggle Playground, which is a great way to understand the basics of ML.
+- [AI Crowd](https://aicrowd.com/challenges): A website that lists out many AI challenges and competitions. These are usually more niche and fundamental AI research, but still a good way to learn and apply your knowledge.
+- [ML Contest](https://mlcontest.com/): A website that lists out many upcoming and ongoing AI challenges and competitions.
+
+## Communities and Forums
+There are many communities and forums that you can join to learn and talk with others about AI. Here are some of the ones I recommend to start with:
+- [Huggingface Discord](https://discord.com/invite/hugging-face-879548962464493619)
+- [Kaggle Discord](https://discord.com/invite/kaggle)
+
+# Tips and FAQ
 
 ## Is ML Research for Me?
 If you are often unsure abut pursuing ML, don't worry, you are not alone. I was also unsure about it when I first started. However, I think the best way to find out is to just try it. I can't give a hard yes or no, I think it depends on you and your personal fit.
@@ -117,7 +294,7 @@ Personally, as a student trying to pursue ML research in NTU, there are good thi
 **Some of the pros of doing ML research in NTU:**  
 - There are dedicated programs for doing research like URECA. Though, you might need to research on the good professors to join; I heard many bad experiences from my friends, but some turns out to be a good starting point. Once you find a good fit, it is a great opportunity.
 - NTU offers quite a few research opportunities, and one of its biggest strengths is the strong collaboration between professors and industry. This opens up a lot of great chances to work in research labs that bridge academia and real-world applications. I myself have been able to work in a research lab like Continental and Temasek Lab.
-- Honestly, AI/ML courses in NTU are quite slow-paced compared to the rapid progress of the field. But that’s actually a good thing. No university course will ever keep up with state-of-the-art advancements, so the best approach is to self-learn and explore on your own. Once you do that, you’ll find the lessons much easier and can focus more on research rather than just coursework. Comparatively, compared to NUS, there are much more free time and you need to think less about competition, to explore and do your own research.
+- Honestly, AI/ML courses in NTU are quite slow-paced compared to the rapid progress of the field. But that's actually a good thing. No university course will ever keep up with state-of-the-art advancements, so the best approach is to self-learn and explore on your own. Once you do that, you'll find the lessons much easier and can focus more on research rather than just coursework. Comparatively, compared to NUS, there are much more free time and you need to think less about competition, to explore and do your own research.
 
 **General cons about doing ML research:**
 - It is a very competitive field and there are tons of people doing it already. Makes sense since it is a very lucrative field, but if your goal is academia, it might be difficult to stand out. If possible find a niche that is more neglected and focus on it.
@@ -125,12 +302,20 @@ Personally, as a student trying to pursue ML research in NTU, there are good thi
 - It can be very discouraging at times, especially if you are not getting good results.
 - There will be more job opportunities in the industry, and most AI jobs now are probably more about applying LLM APIs, software engineering, data engineering, and only a few has to do with current state-of-the-art research, so it might be difficult to find a good fit in Singapore.
 
-**I’ll be transparent — there are definitely some cons to doing ML research as an undergrad in NTU:**
+***Some of the cons of doing ML research in NTU:**
 - Probably there are not many people interested in ML research as an undergraduate in NTU, so it is quite lonely at times. I'm personally only aware of a handful of students (<10) who are interested in ML research in NTU.
 - Sometimes the research culture in NTU might be rough too. Sure there are many professors with a lot of citations, but often times, mentorship is not prioritized. This is understandable considering professors are busy with their own research and PhD students but it can be very discouraging at times. Mine is so-so, but at least I get to stay in touch with the PhDs. I know some of my friends have it worse. Also language barrier is a thing. Not discriminating anyone, but fact of the matter is 90% of the researchers here are Chinese-speaking (In fact I was the only non-Chinese speaker in my team during URECA), so it will be difficult if you are not comfortable with Chinese.
 - Not much encouragement and short term incentive in general. Especially if you are going the academia route, the pay would probably not be great at all, and you might have a hard time standing out. (And most of the work you will do will be unpaid, and sometimes not even a good result will come out of the research)
 
-So, is ML research for you? I think it depends on you and your personal fit. If you are not sure, just try it! You will learn a lot more about yourself that way.
+So, is ML research for you? I think it greatly depends on you and your personal fit. If you are not sure, just try doing a research project over the summer or throughout the semester! You will learn a lot more about your fit from there.
+
+## ML Researcher vs ML Engineer
+
+Some might wonder what the difference between ML researcher and ML engineer is. Actually I feel that these days, the lines between the two are blurring. Most of the skills are quite transferable, and indeed most ML researchers are also expected to be able to implement their ideas quickly and correctly. However, I think the key differences are:
+- The focus of the work: ML engineers don't need to come up with new models or algorithms. Instead, they focus on quickly iterating and/or implementing existing models, then testing it before deploying it into production.
+- The time scale: ML researchers usually have a longer time scale for working on just 1 or 2 difficult problem at a time, while ML engineers usually have a shorter time scale, and I heard that it is likely that ML engineers have to work or maintain multiple projects at once.
+- The work culture: ML researchers usually have more freedom to explore and innovate, while ML engineers usually have to follow strict guidelines and standards. "Don't reinvent the wheel" is a common saying in the industry.
+- The reward: As a researcher, the reward you will get is the excitement of discovering something new and the satisfaction of solving a difficult problem. As an engineer, the reward you will get is the satisfaction of building something that is used by many people and the money you will get. Generally speaking, I would recommend not to go to ML research only for the money, while not thinking of personal fit. Sure, some big tech companies like Google or Meta will pay PhD ML researchers tons of money, but unless you are one of the top 1% researchers of the world, it is unlikely to get that much, and more often than not, ML engineers can get paid more.
 
 ## For Technical Interview
 
@@ -147,7 +332,7 @@ Some general tips that I think are useful:
 - Join a hackathon: This is a great way to apply your knowledge to real-world problems and get exposure to the latest research in AI. However, I personally do not recommend joining too much of these, especially since most hackathons are half-baked ideas and implementations and not aligned with research where you need to spend time on the research.
 - Just start: Whatever you want to try, just try it. I personally believe that the best way to learn is to just do it. You will learn a lot by just doing it. Don't be intimidated by the math or the complexity of the problem. If you wait to exhaustively learn all the prerequisites of current AI research, you will never start.
 - Learn to not get intimidated by the math: I know it is scary, but it is not as scary as you think. Learning to understand the intuition behind it and why it is used.
-- Be a Jack of All Trades, Master of One: This might be more of a personal opinion and might be controversial depending on the person. However, I think it is important to be able to understand the big picture of the field and Computer Science in general. A lot of skills and concepts are also quite transferable and even most breakthroughs in AI are built upon random borrowed ideas from other fields. In general, it is also good to have skills in software engineering (web dev / mobile dev, etc.), SQL and databases, and more. Soft skills like collaboration, communication, writing, and presentation, team management are also important, so do not neglect them! This is also good for career pivots when you decide research is not for you.
+- Be a Jack of All Trades, Master of One: This might be more of a personal opinion and might be controversial depending on the person. However, I think it is important to be able to understand the big picture of the field and Computer Science in general. A lot of skills and concepts are also quite transferable and even most breakthroughs in AI are built upon random borrowed ideas from other fields. In general, it is also good to have skills in software engineering (web dev / mobile dev, etc.), SQL and database systems, classical algorithms, distributed systems, and more. Soft skills like collaboration, communication, writing, and presentation, team management are also important, so do not neglect them! These are also good for career pivots when you decide research is not for you.
 
 Some of my personal opinions on the don'ts in ML research:
 - Do not do technical ML research if you are struggling with either math or coding. You need to at least be above average in both to be able to do well in ML research. This might sound discouraging, but I think it is important to be honest with yourself and not to waste your time. Truth is there will be so many other people who are good at both, and are also willing to work hard. It is going to be very difficult to catch up to that. I am sure there will be many other ways you can do to make big impact, with a better fit for your skills and interestss.
@@ -157,4 +342,4 @@ Some of my personal opinions on the don'ts in ML research:
 - Don't hold back on not starting just because that you feel you can will do it later. I think if I were to repeat, I would try to be more proactive and not wait for the "right time" to start.
 - Don't burn out and spend all your time stuck on a problem. Find time to rest and refresh your mind. It is usually difficult to continue to be productive if you are too tired.
 
-I think that's all I can share for now. I will update this blog as I learn more and gain more experiences. Thank you for reading!
+I think that's all I can share for now. I hope you find this blog useful! Thank you for reading!
