@@ -149,6 +149,10 @@ const BlogPost = () => {
         });
     };
 
+    const showToc = () => {
+        setTocVisible(true);
+    };
+
     return (
         <div className="blog-container">
             {/* Hover area to activate TOC */}
@@ -179,6 +183,17 @@ const BlogPost = () => {
                     </ul>
                 </nav>
             </div>
+
+            {/* TOC Toggle Button */}
+            <button
+                className="toc-button"
+                onClick={showToc}
+                aria-label="Show table of contents"
+            >
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path d="M3 13h18a1 1 0 0 1 0 2H3a1 1 0 0 1 0-2zm0-6h18a1 1 0 0 1 0 2H3a1 1 0 1 1 0-2zm0 12h18a1 1 0 0 1 0 2H3a1 1 0 0 1 0-2z" />
+                </svg>
+            </button>
 
             <article className="blog-post">
                 <div className="blog-header">
