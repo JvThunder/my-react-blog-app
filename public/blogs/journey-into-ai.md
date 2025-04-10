@@ -72,7 +72,7 @@ Surprisingly, the competition aligned closely with my internship project, as bot
 
 This brings us to my current internship at Temasek Lab, where I am working on the interpretability of ViT models. From this internship, I have learned a lot about the latest research in ViT models and the importance of interpretability in the field.
 
-### Conclusion 
+## Conclusion 
 
 What a journey all this has been! As I am writing this, I realized that I have been through quite a lot in the past 3 years, and I can feel the growth in my skills and knowledge. I also realized that there are many "luck" involved in my journey, where a lot things seem to fall into place. To me, I am sure this is all part of God's plan for me, and I am grateful for the opportunities and experiences I have been given.
 
@@ -319,10 +319,11 @@ Some might wonder what the difference between ML researcher and ML engineer is. 
 
 ## For Technical Interview
 
-I have been through technical interviews, and I have some tips that I think are useful for those who are preparing for technical interviews.
-- Practice Leetcode and other coding platforms - Surprisingly, this is still used even for ML research roles, so it is still important to be comfortable with it. But I do not recommend spending too much time on it, as it is not the main focus of AI research.
-- Review basics of ML and AI - This is a must, as it is the foundation of AI research.
-- Review Statistics and Probability - One time I fumbled an interview just because I forgot some statistical concepts. It is important to be comfortable with this.
+I have been through some technical interviews, and most of the time, as long as you have a good foundation in ML/AI, you should be fine. I have some additional tips that I think are useful for those who are preparing for technical interviews:
+- Practice Leetcode and other coding platforms - Surprisingly, this is still used even for ML research roles, so it is still important to be comfortable with it. But I do not recommend spending too much time on it, as it is not the main focus of AI research. Sometimes, you also need to implement ML algorithms from scratch, so it is good to be comfortable with it. 
+- Review Math, Statistics and Probability - This is the heart of AI, so it is important to be comfortable with it. You probably won't be asked to calculate probabilities or statistical values, but understanding the concepts is crucial.
+- Review basics of ML and AI - This is a must, as it is the foundation of AI research. You should not only memorize algorithms and techniques, but also understand the concepts and the why behind it. (Example: Why do we need to normalize the data? Why do we need to add L2 regularization? Why MSE loss is used?)
+- Prepare to share your projects as past experiences - In almost every interview of mine, I was asked to share my projects or past experiences and explain the details. If you don't have one, try to create one, it does not have to be super innovate or new, but try to avoid copying from others. The first time I got an internship, I was asked about my personal [Mario RL](https://github.com/JvThunder/mario-rl) and that really impressed them. It is important to be able to talk about your projects and share your learnings. Make it clear on what you have done and what you have learned. Make sure you don't look like you are only *vibe coding* and not able to explain your project at all, and try to review the details of the project.
 
 ## Other General Tips
 
