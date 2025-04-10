@@ -24,7 +24,7 @@ We’re in the brink of one of the biggest technological revolution in history. 
 In short — AI is becoming the brain of the digital economy. Ignore it, and you fall behind.
 
 
-## What kinds of companies or industries need AI Practitioners?
+## What kinds of companies or industries need AI researchers?
 
 Right now, most AI-related jobs are still centered in the **tech industry** — especially in companies that are building AI products or infrastructure (e.g., OpenAI, Google DeepMind, Meta, Microsoft, etc.).
 
