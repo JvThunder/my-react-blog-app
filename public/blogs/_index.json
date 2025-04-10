@@ -4,19 +4,22 @@
             "title": "My First Post: The Beginning of My AI Blog Post",
             "date": "2025-04-03",
             "author": "Joshua AC",
-            "slug": "first-post"
+            "slug": "first-post",
+            "visible": true
         },
         {
             "title": "My Journey into AI and Research",
             "date": "2025-04-04",
             "author": "Joshua AC",
-            "slug": "journey-into-ai"
+            "slug": "journey-into-ai",
+            "visible": true
         },
         {
             "title": "AI Blog by Joshua",
             "date": "2025-04-05",
             "author": "Joshua AC",
-            "slug": "ai-blog"
+            "slug": "ai-blog",
+            "visible": false
         }
     ]
 }

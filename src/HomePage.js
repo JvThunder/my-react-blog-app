@@ -15,8 +15,9 @@ function HomePage() {
                 const indexData = await indexResponse.json();
 
                 // Fetch and parse each blog file
+                // if visible is false, skip
                 const fetchedPosts = await Promise.all(
-                    indexData.posts.map(async (postInfo) => {
+                    indexData.posts.filter(post => post.visible).map(async (postInfo) => {
                         const response = await fetch(`/blogs/${postInfo.slug}.md`);
                         const content = await response.text();
 
