@@ -15,10 +15,10 @@
             "visible": true
         },
         {
-            "title": "AI Blog by Joshua",
+            "title": "My Journey into AI",
             "date": "2025-04-05",
             "author": "Joshua AC",
-            "slug": "ai-blog",
+            "slug": "journey-into-ai",
             "visible": false
         }
     ]

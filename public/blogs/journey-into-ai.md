@@ -260,6 +260,7 @@ These are the courses that are more practical and applied, and are a good starti
 - [Worldquant Applied Data Science Lab](https://www.wqu.edu/adsl?utm_term=worldquant%20university%20data%20science&utm_campaign=GA_Brand_SEA_Africa%2BAsia_WW&utm_source=adwords&utm_medium=ppc&hsa_acc=1450481729&hsa_cam=21978146302&hsa_grp=171109972549&hsa_ad=723883723654&hsa_src=g&hsa_tgt=kwd-874815672211&hsa_kw=worldquant%20university%20data%20science&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjw47i_BhBTEiwAaJfPphoDw2DoKPRHHzUR0vtroIr5iilRr6oYIg9R65EkrgOT6FZjRFOyIRoCwjgQAvD_BwE) perfect for those more into the Data Science part, learning all the necessary libraries and common techniques.
 - [Huggingface Courses](https://huggingface.co/learn) is a good course for beginners. The NLP and Computer Vision courses are especially recommended!
 - [Kaggle Courses](https://www.kaggle.com/learn) is a good course for beginners. The courses are project based and integrate well with the Kaggle platform and datasets.
+- [Fast.ai](https://course.fast.ai/) is a good course for beginners. The courses are project based and integrate well with the Fast.ai platform and datasets.
 
 ## More Resources
 
