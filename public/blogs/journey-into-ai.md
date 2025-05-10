@@ -190,56 +190,24 @@ AI systems that act autonomously to achieve goals, combining reasoning, planning
 ## More Niche Fields in AI
 These are the fields that are more niche and less mainstream, but are still important and interesting. Obviously I can't cover all of them, but I hope this gives you a good starting point and a sense of the diversity of AI. In my opinion, these are the fields that new researchers are more likely to be able to contribute significantly to.
 
-### AI Safety and Alignment
-Research ensuring AI systems remain beneficial, controllable, and aligned with human values and intentions.
-
-### 3D modelling
-AI techniques for helping with 3D modelling. Examples include papers on 3D reconstruction, 3D generation, and 3D understanding.
-
-### Computer Graphics
-AI techniques for enhancing and automating computer graphics workflows. Combines traditional rendering with neural approaches to create, manipulate, and optimize visual content for games, VFX, and interactive media.
-
-### Graph Based AI and Knowledge Graphs
-Representing and reasoning with complex relationships between entities to enhance understanding and inference.
-
-### Embodied AI
-Systems that interact with the physical world through sensors and actuators, combining perception with physical action.
-
-### Multi-Agent Systems
-Study of multiple AI agents interacting, competing, or cooperating to solve complex problems collectively.
-
-### Audio and Speech
-Processing and understanding audio signals, including speech recognition, speech synthesis, and audio generation.
-
-### Human-AI Interaction
-Developing systems that can understand and interact with humans in a natural and intuitive way.
-
-### Distributed AI and Federated Learning
-Training large models across multiple devices or data centers, ensuring privacy and scalability.
-
-### Representation Learning
-Learning useful and efficient representations of data, including text, images, and audio.
-
-### Neuroscience and Brain-Inspired AI
-Using brain and neuroscience research to understand and improve current AI systems.
-
-### Edge and Efficient AI
-AI systems that need to be using less memory and computation power to enable them to run on edge devices, such as smartphones, tablets, and embedded systems.
-
-### Symbolic Reasoning AI
-Combining traditional rule-based approaches with modern neural methods to enable explicit reasoning and explainability.
-
-### Thereotical AI / Math of Deep Learning
-Understanding the mathematical foundations of deep learning. Usually proving theorems and guarantees of the optimization problems in deep learning.
-
-### AI for Science
-Using AI to accelerate scientific discovery in fields like drug design, materials science, and fundamental physics.
-
-### AI for Security
-Using AI to detect and prevent security threats, including malware detection, intrusion detection, and anomaly detection.
-
-### AI for Healthcare
-Using AI to improve healthcare, including disease diagnosis, drug discovery, and personalized medicine.
+List of topics:
+- AI Safety and Alignment
+- 3D modelling
+- Computer Graphics
+- Graph Based AI and Knowledge Graphs
+- Embodied AI
+- Multi-Agent Systems
+- Audio and Speech
+- Human-AI Interaction
+- Distributed AI and Federated Learning
+- Representation Learning
+- Neuroscience and Brain-Inspired AI
+- Edge and Efficient AI
+- Symbolic Reasoning AI
+- Thereotical AI / Math of Deep Learning
+- AI for Science
+- AI for Security
+- AI for Healthcare
 
 # Learning Resources
 
