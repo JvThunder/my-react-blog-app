@@ -62,7 +62,7 @@ During the interview, I shared my experiences in MLDA, since I had yet to comple
 Not long after, I met Huy, the Head of the Robotics branch in MLDA. I explained my interest and experience in AI in general. In the end, I joined him to join the [ICRA BARN challenge](https://cs.gmu.edu/~xiao/Research/BARN_Challenge/BARN_Challenge25.html). In this competition, we developed an MPC mode-switching algorithm, which led us to win second place! It was a great experience and it was also my first time ever going to an academic conference, which took place in Japan (a country I absolutely love!). [Github](https://github.com/MLDA-NTU/mlda-barn-2024)
 
 <figure style="text-align: center;">
-  <img src="../images/icra-barn.jpg" style="width: 50%;" alt="ICRA BARN Challenge">
+  <img src="../images/jackal-robot.jpg" style="width: 50%;" alt="ICRA BARN Challenge">
   <figcaption>Figure 3: Winning second place in ICRA BARN Challenge</figcaption>
 </figure>
 
