@@ -168,3 +168,13 @@ h3 {
     border-radius: 4px;
     transition: color 0.3s ease;
 }
+
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+    transition: color 0.3s ease;
+}
