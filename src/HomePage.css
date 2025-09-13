@@ -2,6 +2,8 @@
     max-width: 1200px;
     margin: 0 auto;
     padding: 2rem 1rem;
+    background-color: var(--bg-primary);
+    transition: background-color 0.3s ease;
 }
 
 .recent-posts {
@@ -16,7 +18,8 @@
 h2 {
     font-size: 2rem;
     margin-bottom: 1.5rem;
-    color: #333;
+    color: var(--text-primary);
+    transition: color 0.3s ease;
 }
 
 .posts-grid {
@@ -29,22 +32,25 @@ h2 {
 .post-card {
     border-radius: 8px;
     padding: 1.5rem;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: var(--bg-secondary);
+    box-shadow: var(--shadow-primary);
     text-decoration: none;
     color: inherit;
-    transition: transform 0.2s, box-shadow 0.2s;
+    transition: all 0.3s ease;
+    border: 1px solid var(--border-secondary);
 }
 
 .post-card:hover {
     transform: translateY(-3px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    box-shadow: var(--shadow-secondary);
+    background-color: var(--bg-hover);
 }
 
 .post-card .post-meta {
     /* This will keep the meta info at the bottom */
     margin-top: auto;
     padding-top: 1rem;
-    border-top: 1px solid #eee;
+    border-top: 1px solid var(--border-secondary);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -59,40 +65,47 @@ h2 {
 .post-item {
     border-radius: 8px;
     padding: 1.5rem;
+    background-color: var(--bg-secondary);
     text-decoration: none;
     color: inherit;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: var(--shadow-primary);
+    transition: all 0.3s ease;
+    border: 1px solid var(--border-secondary);
 }
 
 .post-item:hover {
     transform: translateX(3px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    box-shadow: var(--shadow-secondary);
+    background-color: var(--bg-hover);
 }
 
 h3 {
     font-size: 1.5rem;
     margin-bottom: 1rem;
-    color: #222;
+    color: var(--text-primary);
+    transition: color 0.3s ease;
 }
 
 .post-excerpt {
-    color: #666;
+    color: var(--text-secondary);
     margin-bottom: 1rem;
     line-height: 1.5;
+    transition: color 0.3s ease;
 }
 
 .post-meta {
     font-size: 0.9rem;
-    color: #888;
+    color: var(--text-muted);
     display: flex;
     gap: 1rem;
     align-items: center;
+    transition: color 0.3s ease;
 }
 
 .post-author {
-    color: #666;
+    color: var(--text-secondary);
     font-weight: 500;
+    transition: color 0.3s ease;
 }
 
 .post-date {
@@ -113,23 +126,27 @@ h3 {
     align-items: center;
     padding: 1rem;
     border-radius: 8px;
+    background-color: var(--bg-secondary);
     text-decoration: none;
     color: inherit;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: var(--shadow-primary);
+    transition: all 0.3s ease;
+    border: 1px solid var(--border-secondary);
 }
 
 .post-item:hover {
     transform: translateX(3px);
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+    box-shadow: var(--shadow-secondary);
+    background-color: var(--bg-hover);
 }
 
 .post-title {
     font-size: 1.1rem;
     font-weight: 500;
-    color: #333;
+    color: var(--text-primary);
     flex: 1;
     margin-right: 1rem;
+    transition: color 0.3s ease;
 }
 
 .post-meta-compact {
@@ -141,11 +158,13 @@ h3 {
 }
 
 .post-meta-compact .post-author {
-    color: #666;
+    color: var(--text-secondary);
+    transition: color 0.3s ease;
 }
 
 .post-meta-compact .post-date {
-    color: #888;
+    color: var(--text-muted);
     padding: 0.25rem 0.5rem;
     border-radius: 4px;
+    transition: color 0.3s ease;
 }

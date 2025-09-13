@@ -1,10 +1,11 @@
 .header {
-    background-color: #faf9f5;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: var(--bg-primary);
+    box-shadow: var(--shadow-primary);
     padding: 1rem 0;
     position: sticky;
     top: 0;
     z-index: 1000;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
 
 .header-content {
@@ -16,21 +17,43 @@
     align-items: center;
 }
 
-/* Option 1: Deep Navy */
 .logo {
     font-size: 1.5rem;
     font-weight: bold;
     text-decoration: none;
-    color: #14468c;
+    color: var(--text-primary);
     margin: 0;
+    transition: color 0.3s ease;
 }
 
 .header-content img {
     height: 70px;
-    /* or any small size you prefer */
     width: auto;
     vertical-align: middle;
     display: inline-block;
+}
+
+.theme-toggle {
+    background: none;
+    border: 2px solid var(--border-primary);
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color: var(--text-primary);
+    transition: all 0.3s ease;
+}
+
+.theme-toggle:hover {
+    background-color: var(--bg-hover);
+    transform: scale(1.05);
+}
+
+.theme-toggle:active {
+    transform: scale(0.95);
 }
 
 .search-form {
