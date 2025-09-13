@@ -115,11 +115,28 @@
     margin-bottom: 1.5rem;
 }
 
+.blog-title-section {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+}
+
 .blog-header h1 {
     font-size: 2.2rem;
     font-weight: bold;
     color: #333;
-    margin-bottom: 0.5rem;
+    margin: 0;
+}
+
+.word-count {
+    background-color: #f0f0f0;
+    color: #666;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    white-space: nowrap;
 }
 
 .blog-date {
@@ -198,6 +215,21 @@
 
     .blog-post {
         padding: 0 1rem;
+    }
+
+    .blog-title-section {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+    }
+
+    .blog-header h1 {
+        font-size: 1.8rem;
+    }
+
+    .word-count {
+        font-size: 0.8rem;
+        padding: 0.2rem 0.6rem;
     }
 }
 

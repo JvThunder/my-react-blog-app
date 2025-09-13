@@ -149,6 +149,24 @@ const BlogPost = () => {
         });
     };
 
+    const countWords = (text) => {
+        // Remove markdown syntax and count words
+        const cleanText = text
+            .replace(/#{1,6}\s+/g, '') // Remove headers
+            .replace(/\*\*(.*?)\*\*/g, '$1') // Remove bold
+            .replace(/\*(.*?)\*/g, '$1') // Remove italic
+            .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Remove links, keep text
+            .replace(/!\[([^\]]*)\]\([^)]+\)/g, '') // Remove images
+            .replace(/`([^`]+)`/g, '$1') // Remove inline code
+            .replace(/```[\s\S]*?```/g, '') // Remove code blocks
+            .replace(/^\s*[-*+]\s+/gm, '') // Remove list markers
+            .replace(/^\s*\d+\.\s+/gm, '') // Remove numbered list markers
+            .replace(/\n+/g, ' ') // Replace newlines with spaces
+            .trim();
+
+        return cleanText.split(/\s+/).filter(word => word.length > 0).length;
+    };
+
     const showToc = () => {
         setTocVisible(true);
     };
@@ -197,7 +215,10 @@ const BlogPost = () => {
 
             <article className="blog-post">
                 <div className="blog-header">
-                    <h1>{post.title}</h1>
+                    <div className="blog-title-section">
+                        <h1>{post.title}</h1>
+                        <span className="word-count">{countWords(post.content)} Words</span>
+                    </div>
                     <div className="blog-meta">
                         <span className="blog-author">By {post.author}</span>
                         <span className="blog-date">{formatDate(post.date)}</span>
