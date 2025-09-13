@@ -215,13 +215,11 @@ const BlogPost = () => {
 
             <article className="blog-post">
                 <div className="blog-header">
-                    <div className="blog-title-section">
-                        <h1>{post.title}</h1>
-                        <span className="word-count">{countWords(post.content)} Words</span>
-                    </div>
+                    <h1>{post.title}</h1>
                     <div className="blog-meta">
                         <span className="blog-author">By {post.author}</span>
                         <span className="blog-date">{formatDate(post.date)}</span>
+                        <span className="word-count">{countWords(post.content)} words</span>
                     </div>
                 </div>
                 <ReactMarkdown
