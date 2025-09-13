@@ -142,6 +142,13 @@
     font-size: 0.9rem;
 }
 
+.blog-date::after {
+    content: "|";
+    position: absolute;
+    right: 0;
+    color: #999;
+}
+
 .blog-post h1,
 .blog-post h2,
 .blog-post h3,
