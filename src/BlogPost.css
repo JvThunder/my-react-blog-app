@@ -140,6 +140,8 @@
 .blog-date {
     color: #666;
     font-size: 0.9rem;
+    position: relative;
+    padding-right: 1rem;
 }
 
 .blog-date::after {
@@ -148,6 +150,7 @@
     right: 0;
     color: #999;
 }
+
 
 .blog-post h1,
 .blog-post h2,
