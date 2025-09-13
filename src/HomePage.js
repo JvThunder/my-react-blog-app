@@ -25,7 +25,7 @@ function HomePage() {
                             ...postInfo,
                             id: postInfo.slug,
                             content,
-                            excerpt: content.split('\n').slice(1).join(' ').slice(0, 150)
+                            excerpt: content.split('\n').join(' ').slice(0, 150)
                         };
                     })
                 );
