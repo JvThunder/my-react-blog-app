@@ -1,7 +1,7 @@
 .home-page {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 2rem 1rem;
+    padding: 1rem 1rem;
     background-color: var(--bg-primary);
     transition: background-color 0.3s ease;
 }
@@ -198,7 +198,7 @@ h3 {
 /* Mobile-specific styles to prevent overlapping */
 @media (max-width: 768px) {
     .home-page {
-        padding: 2rem 0.75rem;
+        padding: 1rem 0.75rem;
         margin: 0;
     }
 
@@ -290,7 +290,7 @@ h3 {
 
 @media (max-width: 480px) {
     .home-page {
-        padding: 1rem 0.5rem;
+        padding: 0.5rem 0.5rem;
     }
 
     h2 {
@@ -299,7 +299,7 @@ h3 {
     }
 
     .posts-grid {
-        gap: 2.5rem;
+        gap: 3rem;
         padding: 0 0.25rem;
     }
 
