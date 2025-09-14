@@ -16,6 +16,11 @@ For those of you who don't care about *"doing great work"* and just want a simpl
 
 So I think I will continue on this path: striving to become a great AI researcher, while focusing on helping others along the way. Just like what the Bible commands, I want to love neighbors just as myself. I'm also especially concerned about the future of AI, and I hope to help nudge the needle toward safer AI that benefits society as a whole, and not just the rich and elite. I think this is my [**ikigai**](https://en.wikipedia.org/wiki/Ikigai), my calling in life, and I want to start focusing more fully on it. Looking at people often regarded as *great*: Elon Musk, Steve Jobs, Bill Gates, Jensen Huang, Demis Hassabis, I notice they share certain traits: discipline, focus, strong principles, exceptional mastery of their craft and pursuing things bigger than themselves. Those are the qualities I want to embody as I pursue this journey.
 
+<figure style="text-align: center;">
+  <img src="../images/ikigai.png" alt="Ikigai Diagram">
+  <figcaption>Figure 1: Ikigai Diagram</figcaption>
+</figure>
+
 Well, this is more of a rant and my chain of thought reasoning, but this serves as my personal journal for the future me but hopefully it will be the inspiration for many others too. I want to dedicate my life to living for others. To help, serve, and benefit people. Only when I do this that I can say I am successful. If you disagree with any of the arguments, that is totally okay, and feel free to discuss with me about this, I would love to learn more about others' perspectives. 
 
 For the like-minded individuals out there, believe in what you stand for, find your ikigai, and to not be swayed and distracted by others who have different goals. **I think the challenge in life is that there are so many pieces of advice and so much noise out there. We need to learn how to filter them out, focus on what truly matters, and choose to listen to the people we actually aspire to become.** For the Christians out there, remember to always focus on serving others and building God's kingdom and glory, more than our own personal gains. **"If you can do it now, then why aren't you solving the most important problems in your field?"** :)

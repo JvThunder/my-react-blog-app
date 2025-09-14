@@ -224,6 +224,17 @@
     transition: background-color 0.3s ease;
 }
 
+.blog-post figure {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.blog-post figure img {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+}
+
 @media (max-width: 768px) {
     .toc-wrapper {
         width: 240px;
