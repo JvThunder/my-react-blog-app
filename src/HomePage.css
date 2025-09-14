@@ -212,7 +212,7 @@ h3 {
     }
 
     h2 {
-        font-size: 1.5rem;
+        font-size: 2.2rem;
         margin-bottom: 1rem;
         padding: 0 0.5rem;
     }
@@ -236,7 +236,7 @@ h3 {
 
     .post-card .post-excerpt {
         margin-bottom: 0.75rem;
-        font-size: 1rem;
+        font-size: 1.2rem;
         line-height: 1.4;
     }
 
@@ -256,7 +256,6 @@ h3 {
     }
 
     .posts-list {
-        gap: 2rem;
         padding: 0 0.5rem;
     }
 
@@ -265,11 +264,10 @@ h3 {
         flex-direction: column;
         align-items: flex-start;
         gap: 0.5rem;
-        margin-bottom: 1rem;
     }
 
     .post-title {
-        font-size: 1rem;
+        font-size: 1.3rem;
         margin-right: 0;
         margin-bottom: 0.25rem;
     }
@@ -296,7 +294,7 @@ h3 {
     }
 
     h2 {
-        font-size: 1.3rem;
+        font-size: 2rem;
         margin-bottom: 0.75rem;
     }
 
@@ -313,7 +311,7 @@ h3 {
     }
 
     .post-card .post-excerpt {
-        font-size: 0.95rem;
+        font-size: 1.15rem;
     }
 
     .posts-list {
@@ -322,11 +320,10 @@ h3 {
 
     .post-item {
         padding: 1rem;
-        margin-bottom: 1rem;
     }
 
     .post-title {
-        font-size: 0.9rem;
+        font-size: 1.2rem;
     }
 
     .post-meta-compact {
