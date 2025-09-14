@@ -11,12 +11,12 @@
 }
 
 .all-posts {
-    margin-top: 3rem;
+    margin-top: 5rem;
     margin-bottom: 3rem;
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 2.5rem;
     margin-bottom: 1.5rem;
     color: var(--text-primary);
     transition: color 0.3s ease;
@@ -25,7 +25,8 @@ h2 {
 .posts-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 1.5rem;
+    gap: 2.5rem;
+    row-gap: 4rem;
     margin-bottom: 2rem;
 }
 
@@ -51,7 +52,7 @@ h2 {
 
 .post-card h1 {
     margin: 0 0 1rem 0;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     font-weight: bold;
     color: var(--text-primary);
     transition: color 0.3s ease;
@@ -64,6 +65,7 @@ h2 {
     line-height: 1.5;
     color: var(--text-secondary);
     transition: color 0.3s ease;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .post-card .post-meta {
@@ -191,4 +193,143 @@ h3 {
     font-size: 1.1rem;
     color: var(--text-secondary);
     transition: color 0.3s ease;
+}
+
+/* Mobile-specific styles to prevent overlapping */
+@media (max-width: 768px) {
+    .home-page {
+        padding: 2rem 0.75rem;
+        margin: 0;
+    }
+
+    .recent-posts {
+        margin-bottom: 2rem;
+    }
+
+    .all-posts {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+        margin-bottom: 1rem;
+        padding: 0 0.5rem;
+    }
+
+    .posts-grid {
+        grid-template-columns: 1fr;
+        gap: 2.5rem;
+        margin-bottom: 3rem;
+        padding: 0 0.5rem;
+    }
+
+    .post-card {
+        padding: 1.5rem;
+        margin-bottom: 2rem;
+    }
+
+    .post-card h1 {
+        font-size: 1.5rem;
+        margin-bottom: 0.75rem;
+    }
+
+    .post-card .post-excerpt {
+        margin-bottom: 0.75rem;
+        font-size: 1rem;
+        line-height: 1.4;
+    }
+
+    .post-card .post-meta {
+        padding-top: 0.75rem;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+    }
+
+    .post-card .post-meta .post-author {
+        font-size: 0.85rem;
+    }
+
+    .post-card .post-meta .post-date {
+        font-size: 0.85rem;
+    }
+
+    .posts-list {
+        gap: 2rem;
+        padding: 0 0.5rem;
+    }
+
+    .post-item {
+        padding: 1.5rem;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+        margin-bottom: 1rem;
+    }
+
+    .post-title {
+        font-size: 1rem;
+        margin-right: 0;
+        margin-bottom: 0.25rem;
+    }
+
+    .post-meta-compact {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.25rem;
+        font-size: 0.8rem;
+    }
+
+    .post-meta-compact .post-author {
+        font-size: 0.8rem;
+    }
+
+    .post-meta-compact .post-date {
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .home-page {
+        padding: 2rem 0.5rem;
+    }
+
+    h2 {
+        font-size: 1.3rem;
+        margin-bottom: 0.75rem;
+    }
+
+    .posts-grid {
+        padding: 0 0.25rem;
+    }
+
+    .post-card {
+        padding: 0.75rem;
+    }
+
+    .post-card h1 {
+        font-size: 1.4rem;
+    }
+
+    .post-card .post-excerpt {
+        font-size: 0.95rem;
+    }
+
+    .posts-list {
+        padding: 0 0.25rem;
+    }
+
+    .post-item {
+        padding: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .post-title {
+        font-size: 0.9rem;
+    }
+
+    .post-meta-compact {
+        font-size: 0.75rem;
+    }
 }

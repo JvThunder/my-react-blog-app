@@ -192,6 +192,7 @@
     margin-bottom: 1.2rem;
     font-size: 1.05rem;
     transition: color 0.3s ease;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .blog-post a {
@@ -237,6 +238,16 @@
     .blog-header h1 {
         font-size: 1.8rem;
     }
+
+    .blog-date::after,
+    .blog-author::after {
+        display: none;
+    }
+
+    .blog-meta {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
 }
 
 .blog-meta {
@@ -251,6 +262,8 @@
     position: relative;
     padding-right: 1rem;
     transition: color 0.3s ease;
+    font-weight: bold;
+    color: var(--text-primary);
 }
 
 .blog-author::after {
@@ -271,7 +284,7 @@
 /* List styling to ensure consistency with other content */
 .blog-post ul,
 .blog-post ol {
-    font-family: inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: var(--text-primary);
     line-height: 1.6;
     margin: 0 0 1.2rem 0;
@@ -313,6 +326,43 @@
     opacity: 1;
     transform: scale(1.05);
     background-color: var(--bg-hover);
+}
+
+@media (max-width: 768px) {
+    .toc-button {
+        top: 120px;
+        left: 0;
+        width: 20px;
+        height: 30px;
+        background-color: var(--bg-secondary);
+        border: 1px solid var(--border-primary);
+        border-left: none;
+        border-radius: 0 8px 8px 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: var(--shadow-primary);
+        opacity: 0.8;
+    }
+
+    .toc-button:hover {
+        transform: translateX(2px);
+        background-color: var(--bg-hover);
+        opacity: 1;
+    }
+
+    .toc-button::after {
+        content: '';
+        width: 0;
+        height: 0;
+        border-style: solid;
+        border-width: 4px 0 4px 6px;
+        border-color: transparent transparent transparent var(--text-primary);
+    }
+
+    .toc-button svg {
+        display: none;
+    }
 }
 
 .toc-button svg {
