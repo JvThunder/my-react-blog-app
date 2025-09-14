@@ -25,7 +25,7 @@ h2 {
 .posts-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 2.5rem;
+    gap: 1.5rem;
     row-gap: 4rem;
     margin-bottom: 2rem;
 }
@@ -225,7 +225,7 @@ h3 {
     }
 
     .post-card {
-        padding: 1.5rem 1.5rem 1.5rem;
+        padding: 1.5rem;
         margin-bottom: 2rem;
     }
 
@@ -299,8 +299,8 @@ h3 {
     }
 
     .posts-grid {
-        gap: 3rem;
-        padding: 0 0.25rem;
+        gap: 3.7rem;
+        padding: 0.8rem;
     }
 
     .post-card {
@@ -308,11 +308,11 @@ h3 {
     }
 
     .post-card h1 {
-        font-size: 1.4rem;
+        font-size: 1.7rem;
     }
 
     .post-card .post-excerpt {
-        font-size: 1.15rem;
+        font-size: 1rem;
     }
 
     .posts-list {
