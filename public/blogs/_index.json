@@ -20,6 +20,13 @@
             "author": "Joshua AC",
             "slug": "reflections-on-greatness",
             "visible": true
+        },
+        {
+            "title": "The Key That Opened Something Else: How J meets V",
+            "date": "2025-12-25",
+            "author": "J",
+            "slug": "keys",
+            "visible": false
         }
     ]
 }
