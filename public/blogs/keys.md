@@ -6,7 +6,7 @@ At the mention of V’s name, J paused briefly. The name was familiar. They were
 
 “Okay, can!” J replied. Coincidentally, he would be flying back to Singapore in a few days anyway. “When can I get it from you?”
 
-“Now? I just arrived at the airport.”
+“Is now okay? I just arrived at the airport.”
 
 That response caught him a bit off guard. It was already close to midnight, his doors were locked, and the day felt long over. Still, after a short hesitation, J agreed and sent his address. Shortly after, they met. N handed him the keys, along with some snacks. A simple exchange. Nothing more.
 
