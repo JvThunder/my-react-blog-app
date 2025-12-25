@@ -32,6 +32,6 @@ That weekend changed everything. They talked for hours on Friday. And again on S
 
 That was when something shifted for J. He realized that V was far more interesting than he had initially thought. Thoughtful. Reflective. Surprisingly aligned with how he viewed the world. Curious, he asked more questions. And the more he asked, the more invested he became. Over several days of deep, honest conversations, his feelings quietly grew.
 
-This all happened before they even met for the second time. Eventually, J asked to meet her again. This time, they did. They talked more, laughed more, and things felt different. They continued talkingore afterwards. In early October, J confessed his feelings. V showed her interest too. From then on, they met more often, now aware of their mutual feelings. Dates became warmer, lighter, and more intentional.
+This all happened before they even met for the second time. Eventually, J asked to meet her again. This time, they did. They talked more, laughed more, and things felt different. They continued talking more afterwards. In early October, J confessed his feelings. V showed her interest too. From then on, they met more often, now aware of their mutual feelings. Dates became warmer, lighter, and more intentional.
 
 By the end of November, after everything they had shared, they decided to date officially. What began as a late-night request to return a key became something neither of them expected, but both came to treasure.
